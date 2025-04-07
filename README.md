@@ -1,4 +1,4 @@
-# Wildan Martoyo - Project Portfolio  
+# Wildan Martoyo - Project Portfolio  & Certifications
 A collection of my professional and personal projects, including IT solutions, ServiceNow apps, smart city initiatives, and data governance frameworks.
 
 ## 🚀 Projects  
@@ -41,7 +41,53 @@ A collection of my professional and personal projects, including IT solutions, S
 
 ---
 
-## 📚 Publications  
+# 🧾 Wildan Martoyo – Certification & Badge Portfolio
+
+Welcome to my certification and badge summary. I'm currently focused on **ServiceNow**, **ITSM**, **ITOM**, and enterprise platforms.
+
+---
+
+## 📘 ServiceNow Learning (NOW Learning Portal)
+
+**🧠 Core Learning Path:**
+- ✅ ITSM Fundamentals *(Completed, 7 hrs)*
+- ✅ ITOM Overview *(Completed)*
+- 🟡 Discovery Fundamentals *(66% Complete, 7 hrs)*
+- 🟡 ServiceNow Platform Implementation *(In Progress)*
+- ✅ Administration Fundamentals *(99% Complete, 12 hrs)*
+- 🟡 Advanced Administration *(Started)*
+
+**🔍 Specialized Topics:**
+- ✅ Virtual Agent Fundamentals & Implementation
+- ✅ CSDM (Common Service Data Model) Fundamentals
+- ✅ Order Management Fundamentals
+- ✅ BCM – GRC: Business Continuity Management
+- ✅ Workspace Theme Customization
+- ✅ Employee Center Fundamentals
+- ✅ Hosting Workshops / Now Create
+
+**🏅 Micro-Certifications & UI Courses:**
+- ✅ Welcome to ServiceNow (Xanadu)
+- ✅ ServiceNow User Interface Overview
+- ✅ Instance Help / HTML UI Basics
+- ✅ Micro-Cert: Welcome to ServiceNow
+- ✅ Theme Builder Fundamentals
+
+**🏆 Pathway Program:**
+- 🎯 Expert Implementer Collection *(25% Progress)*
+
+---
+
+## 🎓 Other Certifications
+
+- ✅ Certified System Administrator *(CSA – 2025)*
+- 🟡 ServiceNow Implementer & Architecture Pathway *(In Progress)*
+- ✅ ITIL 4 Foundations *(2025)*
+- ✅ AWS Cloud Practitioner Essentials *(2021)*
+- ✅ SAP ERP Fundamentals *(2013)*
+
+- 
+## 📚 Additional Files 
 
 ## 📚 Publications  
 1. **[Adoption of Smart-Village Concept on E-Government Implementation Strategy](http://eprints.utm.my/id/eprint/61985/1/KhairulHisyamKamarudin2015_BalancingTheUrban-RuralDevelopmentAssessmentOnLocalServices.pdf)** – *2016, UTM RAZAK SCHOOL, Universiti Teknologi Malaysia* (ISBN: 978-967-13383-3-9).  
@@ -52,6 +98,8 @@ A collection of my professional and personal projects, including IT solutions, S
 
 
 ---
+
+📄 [Download Full Certification Summary (PDF)](./Wildan_Certifications.pdf) (Coming Soon)
 
 ## 📫 Contact  
 🔗 [LinkedIn](https://www.linkedin.com/in/wildanm/) | ✉️ [Email](wildan.mrty@gmail.com)  
