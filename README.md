@@ -3,7 +3,7 @@ A collection of my professional and personal projects, including IT solutions, S
 
 📄 **[Download CV (PDF)](https://drive.google.com/file/d/1SWCr93Ee-CxW15AQjkYaWpT7oINFBtbo/view?usp=drive_link)**
 
-📄 📄 **[Download Full Certification Summary (PDF)](https://drive.google.com/file/d/1SWCr93Ee-CxW15AQjkYaWpT7oINFBtbo/view?usp=drive_link)**
+📄 **[Download Full Certification Summary (PDF)](https://drive.google.com/file/d/1SWCr93Ee-CxW15AQjkYaWpT7oINFBtbo/view?usp=drive_link)**
 
 ## 📫 Contact  
 🔗 [LinkedIn](https://www.linkedin.com/in/wildanm/) | ✉️ [Email](wildan.mrty@gmail.com)  
