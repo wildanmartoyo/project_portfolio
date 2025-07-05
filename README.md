@@ -1,9 +1,9 @@
 # Wildan Martoyo - Project Portfolio  & Certifications
 A collection of my professional and personal projects, including IT solutions, ServiceNow apps, smart city initiatives, and data governance frameworks.
 
-📄   **[Download CV (PDF)]([./WildanMartoyo_9YearsConsultingExperiences.pdf](https://drive.google.com/file/d/1SWCr93Ee-CxW15AQjkYaWpT7oINFBtbo/view?usp=drive_link))**
+📄 **[Download CV (PDF)](https://drive.google.com/file/d/1SWCr93Ee-CxW15AQjkYaWpT7oINFBtbo/view?usp=drive_link)**
 
-📄 **[Download Full Certification Summary (PDF)]([./WildanMartoyo_Certifications.pdf](https://drive.google.com/file/d/1SWCr93Ee-CxW15AQjkYaWpT7oINFBtbo/view?usp=drive_link))**
+📄 📄 **[Download Full Certification Summary (PDF)](https://drive.google.com/file/d/1SWCr93Ee-CxW15AQjkYaWpT7oINFBtbo/view?usp=drive_link)**
 
 ## 📫 Contact  
 🔗 [LinkedIn](https://www.linkedin.com/in/wildanm/) | ✉️ [Email](wildan.mrty@gmail.com)  
