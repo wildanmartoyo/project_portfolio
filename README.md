@@ -11,7 +11,7 @@ A collection of my professional and personal projects, including IT solutions, S
 ## 🚀 Projects  
 
 ### Medikompeten- a platform for physicians'capacity checking  
-**Personal Project)**  
+**Personal Project with Private Clients**  
 - Developed a certification-based competency checkups for nurses, anesthetic, and physicians.
 - Improved **hospital's enterprise wide competence tracking, standardization and compliance monitoring.**.
   
